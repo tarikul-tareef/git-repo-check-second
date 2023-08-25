@@ -7,7 +7,7 @@ h2 {
   padding: 10px 0;
 }
 
-div {
+.blogs {
   display: inline-block;
   background-color: rgba(180, 170, 76, 0.733);
   padding: 20px;
@@ -16,4 +16,15 @@ div {
   border-radius: 5%;
   width: 29%;
   margin: 5px;
+}
+
+.fruits {
+  background-color: burlywood;
+  padding: 20px;
+}
+
+.fruits img {
+  width: 30%;
+  margin: 5px;
+  height: 400px;
 }
