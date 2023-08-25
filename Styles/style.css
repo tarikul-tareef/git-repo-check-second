@@ -1,0 +1,18 @@
+h2 {
+  text-align: center;
+  font-size: 64;
+  font-weight: 900;
+  color: coral;
+  background-color: rgba(177, 142, 142, 0.336);
+  padding: 10px 0;
+}
+
+div {
+  background-color: rgb(180, 170, 76);
+  padding: 20px;
+  margin-bottom: 10px;
+  border-top: 30px solid salmon;
+  border-radius: 5%;
+  width: 30%;
+  margin: 10px;
+}
