@@ -8,11 +8,12 @@ h2 {
 }
 
 div {
-  background-color: rgb(180, 170, 76);
+  display: inline-block;
+  background-color: rgba(180, 170, 76, 0.733);
   padding: 20px;
   margin-bottom: 10px;
   border-top: 30px solid salmon;
   border-radius: 5%;
-  width: 30%;
-  margin: 10px;
+  width: 29%;
+  margin: 5px;
 }
